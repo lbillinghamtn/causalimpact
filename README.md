@@ -21,7 +21,7 @@ As with all approaches to causal inference on non-experimental data, valid concl
 
 *get the latest version from https://github.com/jamalsenouci/causalimpact:*
 ```bash
-pip install git+ssh://github.com/jamalsenouci/causalimpact.git
+pip install git+ssh://git@github.com/jamalsenouci/causalimpact.git
 ```
 
 #### Getting started
